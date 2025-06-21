@@ -63,5 +63,5 @@
 
 <!-- Заключительная графика -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/programmerTT/programmerTT/main/snake.svg" alt="Snake Animation" width="100%">
+  <img src="https://github.com/programmerTT/programmerTT/blob/main/snake.svg" alt="Snake Animation" width="100%">
 </p>
