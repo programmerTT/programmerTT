@@ -57,7 +57,7 @@
     <img src="https://images.icon-icons.com/2351/PNG/512/logo_telegram_airplane_air_plane_paper_airplane_icon_143169.png" width="60" height="60" alt="Telegram">
   </a>
   <a href="https://discord.com/users/rgb_print" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="60" height="60" alt="Discord">
+    <img src="https://images.icon-icons.com/1477/PNG/512/socialdiscord_101924.png" width="60" height="60" alt="Discord">
   </a>
 </p>
 
