@@ -4,7 +4,7 @@
 <h3 align="center" style="color:#145A32;">Python Developer | Backend Specialist</h3>
 
 <!-- Разделитель -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%">
+<img src="https://raw.githubusercontent.com/gist/Chrizey/7d1a1b7f3c7b9a4d0a5e5e9d4b6e8e6a/raw/5a5f5c5d5e5f5a5b5c5d5e5f5a5b5c5d5e5f5a5b/green-wave.svg" width="100%" alt="divider">
 
 <!-- Стек технологий -->
 <h3 align="center">🛠️ Мой стек</h3>
@@ -32,7 +32,7 @@
 <!-- Статистика -->
 <h3 align="center">📈 Активность</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=dark&title_color=27AE60&text_color=EAFAF1&icon_color=1D6F42&bg_color=0D1117&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=programmerTT&show_icons=true&theme=dark&title_color=27AE60&text_color=EAFAF1&icon_color=1D6F42&bg_color=0D1117&hide_border=true" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmerTT&theme=dark&ring=27AE60&fire=27AE60&currStreakLabel=27AE60&background=0D1117&hide_border=true" alt="GitHub Streak" width="48%">
 </div>
 
