@@ -62,6 +62,19 @@
 </p>
 
 <!-- Заключительная графика -->
-<p align="center">
-  <img src="https://github.com/programmerTT/programmerTT/blob/main/snake.svg" alt="Snake Animation" width="100%">
-</p>
+<svg width="400" height="400">
+    <defs>
+        <path id="myPath" d="m 40,130 c 0,0 60,-80 120,-80 60,0 74.00337,80 140,80 65.99663,0 80,-80 140,-80 60,0 120,80 120,80" />
+    </defs>
+    <text style="stroke: #000000;">
+        <textPath id="texto" xlink:href="#myPath">
+</textPath>
+      
+      <textpath id="texto" xlink:href="#myPath" startOffset="0%" >
+    Хорошего дня
+    <animate attributeName="startOffset" from="0%" to ="100%" begin="0s" dur="10s" repeatCount="indefinite"/>
+</textpath>
+      
+      
+    </text>
+</svg>
