@@ -54,10 +54,10 @@
 <h3 align="center">📫 Связь</h3>
 <p align="center">
   <a href="https://t.me/robert_no_name" target="_blank">
-    <img src="https://images.icon-icons.com/2351/PNG/512/logo_telegram_airplane_air_plane_paper_airplane_icon_143169.png" width="60" height="60" alt="Telegram">
+    <img src="https://sun6-23.userapi.com/s/v1/if1/6JYlBbh4MDWofE5IJ1VbxWeN8s9tQPDnxM8Y7hMeCzKGf093IoCmKXY_bp8myi5Tql2iZ0Em.jpg?size=598x598&quality=96&crop=0,21,598,598&ava=1" width="60" height="60" alt="Telegram">
   </a>
   <a href="https://discord.com/users/rgb_print" target="_blank">
-    <img src="https://images.icon-icons.com/1477/PNG/512/socialdiscord_101924.png" width="60" height="60" alt="Discord">
+    <img src="https://tiermaker.com/images/templates/naivity-tier-list-911129/9111291616785240.jpeg" width="60" height="60" alt="Discord">
   </a>
 </p>
 
