@@ -4,7 +4,7 @@
 <h3 align="center" style="color:#145A32;">Python Developer | Backend Specialist</h3>
 
 <!-- Разделитель -->
-<img src="https://raw.githubusercontent.com/gist/Chrizey/7d1a1b7f3c7b9a4d0a5e5e9d4b6e8e6a/raw/5a5f5c5d5e5f5a5b5c5d5e5f5a5b5c5d5e5f5a5b/green-wave.svg" width="100%" alt="divider">
+<hr style="border: none; border-top: 3px double #145A32; margin: 20px 0;">
 
 <!-- Стек технологий -->
 <h3 align="center">🛠️ Мой стек</h3>
