@@ -4,7 +4,11 @@
 <h3 align="center" style="color:#145A32;">Python Developer | Backend Specialist</h3>
 
 <!-- Разделитель -->
-<hr style="border: none; border-top: 3px double #145A32; margin: 20px 0;">
+<div align="center">
+  <svg width="100%" height="20" viewBox="0 0 100 10" preserveAspectRatio="none">
+    <path d="M0,5 Q25,10 50,5 T100,5" fill="none" stroke="#27AE60" stroke-width="2"/>
+  </svg>
+</div>
 
 <!-- Стек технологий -->
 <h3 align="center">🛠️ Мой стек</h3>
