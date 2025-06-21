@@ -1,5 +1,5 @@
 <!-- Заголовок с анимацией -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&weight=600&size=29&duration=2000&pause=100&color=309F00&center=true&vCenter=true&width=435&lines=%D0%94%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8;%D0%A3%D1%81%D0%BF%D0%B5%D1%85;%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0;%D0%98+%D0%B2%D1%81%D0%B5+%D0%BD%D0%B5+%D0%BF%D1%80%D0%BE+%D0%BC%D0%B5%D0%BD%D1%8F+%3A))](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&weight=600&size=29&duration=2000&pause=100&color=309F00&center=true&vCenter=true&width=835&lines=%D0%94%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8;%D0%A3%D1%81%D0%BF%D0%B5%D1%85;%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0;%D0%98+%D0%B2%D1%81%D0%B5+%D0%BD%D0%B5+%D0%BF%D1%80%D0%BE+%D0%BC%D0%B5%D0%BD%D1%8F+XD" alt="Typing SVG" /></a>
 
 <h3 align="center" style="color:#145A32;">Python Developer | Backend Specialist</h3>
 
